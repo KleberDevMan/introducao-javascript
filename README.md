@@ -1,1 +1,1 @@
-# introducao-javascript
+Primeiro projeto javascript - curso feito na Alura.
